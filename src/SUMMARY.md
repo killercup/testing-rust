@@ -2,7 +2,7 @@
 
 - [Why and how to test software?](./README.md)
 - [Testing pieces of code](./units/README.md)
-  - [What code to write unit tests for](./units/when.md)
+  - [Which functionality to write unit tests for](./units/when.md)
   - [Using Rust's built-in unit tests](./units/unit-tests.md)
   - [Writing unit-testable code](./units/how.md)
   - [Mocking external dependencies with traits](./units/mocking.md)
@@ -11,6 +11,7 @@
   - [Cargo's integration tests](./systems/integration-tests.md)
   - [Documentation tests](./systems/doc-tests.md)
   - [Fuzz testing](./systems/fuzzing.md)
+  - [Measuring test coverage](./systems/coverage.md)
 - [Benchmarking](./benchmarks/README.md)
   - [Profiling](./benchmarks/profiling.md)
   - [Using Rust nightly's bechmarking framework](./benchmarks/built-in.md)
