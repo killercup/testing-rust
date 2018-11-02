@@ -1,0 +1,1 @@
+# Mocking external dependencies with traits
