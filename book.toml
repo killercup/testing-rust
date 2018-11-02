@@ -1,0 +1,5 @@
+[book]
+authors = ["Pascal Hertleif"]
+multilingual = false
+src = "src"
+title = "Testing Rust and building confidence in your code"
